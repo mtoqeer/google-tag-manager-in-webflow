@@ -1,7 +1,7 @@
 # Google Tag Manager In Webflow
 
 ### Found a solution:
-* Follow https://webflow.com/blog/integrating-google-tag-manager-with-google-analytics-in-webflow 51
+* Follow https://webflow.com/blog/integrating-google-tag-manager-with-google-analytics-in-webflow
 * Add the id "gtag-div" to the HTML embed
 
 Add the following to the Project Custom Code Footer to remove the wrapping
